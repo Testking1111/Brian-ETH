@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8FFa2D5677319D62AB0e2864b654B751eb54df2E",
+  "SCAN_LINK": "https://etherscan.io/address/0x8ffa2d5677319d62ab0e2864b654b751eb54df2e",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Brian NFTs",
+  "SYMBOL": "BNFTs",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 250000000000000000,
+  "DISPLAY_COST": 0.25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
